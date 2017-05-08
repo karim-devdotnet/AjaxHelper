@@ -1,0 +1,1 @@
+Load something using ajaxhelper without refresh page
